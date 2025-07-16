@@ -113,7 +113,7 @@ button:disabled {
 @media screen and (max-width: 1250px) {
 
     h1 {
-        font-size: 53px;
+        font-size: 200px;
     }
 
     .container__botao {
